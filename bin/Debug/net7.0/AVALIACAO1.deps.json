@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AVALIACAO1/1.0.0": {
+        "runtime": {
+          "AVALIACAO1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AVALIACAO1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

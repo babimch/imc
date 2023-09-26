@@ -1,0 +1,15 @@
+C:\Users\Barba\LPO\AVALIACAO1\bin\Debug\net7.0\AVALIACAO1.exe
+C:\Users\Barba\LPO\AVALIACAO1\bin\Debug\net7.0\AVALIACAO1.deps.json
+C:\Users\Barba\LPO\AVALIACAO1\bin\Debug\net7.0\AVALIACAO1.runtimeconfig.json
+C:\Users\Barba\LPO\AVALIACAO1\bin\Debug\net7.0\AVALIACAO1.dll
+C:\Users\Barba\LPO\AVALIACAO1\bin\Debug\net7.0\AVALIACAO1.pdb
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.csproj.AssemblyReference.cache
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.AssemblyInfoInputs.cache
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.AssemblyInfo.cs
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.csproj.CoreCompileInputs.cache
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.dll
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\refint\AVALIACAO1.dll
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.pdb
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\AVALIACAO1.genruntimeconfig.cache
+C:\Users\Barba\LPO\AVALIACAO1\obj\Debug\net7.0\ref\AVALIACAO1.dll
